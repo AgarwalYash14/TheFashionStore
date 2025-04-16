@@ -20,12 +20,15 @@ TheFashionStore is fully responsive, providing an optimal viewing experience acr
 - **Mobile View**: Streamlined interface with collapsible menu and stacked content
 
 ## 📸 Screenshots
-![Desktop View](https://raw.githubusercontent.com/AgarwalYash14/TheFashionStore/master/ScreenShots/DesktopView.jpeg)
-*Desktop View of the Homepage*
+<div align="center">
+  <!-- Desktop View of the Homepage -->
+  <p>Desktop View of the Homepage</p>
+  <img src="https://raw.githubusercontent.com/AgarwalYash14/TheFashionStore/master/ScreenShots/DesktopView.jpeg" alt="Desktop View">
 
-![Mobile View](https://raw.githubusercontent.com/AgarwalYash14/TheFashionStore/master/ScreenShots/MobileView.jpeg)
-*Mobile View of the Homepage*
-
+  <!-- Mobile View of the Homepage -->
+  <p>Mobile View of the Homepage</p>
+  <img src="https://raw.githubusercontent.com/AgarwalYash14/TheFashionStore/master/ScreenShots/MobileView.jpeg" alt="Mobile View" width="300">
+</div>
 
 ## 🛠️ Tech Stack
 - **HTML**: Structure and content
